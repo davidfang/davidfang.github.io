@@ -1,41 +1,33 @@
 ---
-title: Introduction
+title: David's workstation
 type: docs
 ---
 
-# Acerbo datus maxime
+# 记录点东西
 
 {{< columns >}}
-## Astris ipse furtiva
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## 编程
+
+各种各样的编程知识，都记录下来，以后可以查看 **golang** 、 **javascript/typescript**、**flutter**、**python**、**php**; _react_ 等
 
 <--->
 
-## Suis quot vota
+## 金融
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+多学习金融知识，扩展思路。
 {{< /columns >}}
 
+{{<columns>}}
 
-## Tempora nisi nunc
+## 数学
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+数学是一切科学的基石。
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+<--->
 
-## Locis suis novi cum suoque decidit eadem
+## 人工智能
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+人工智能最前沿的知识
+
+{{</columns>}}
