@@ -1,3 +1,4 @@
 baseURL = 'http://davidfang.github.io/'
 languageCode = 'en-us'
 title = 'David Fang WorkStation'
+theme = 'hugo-book'
